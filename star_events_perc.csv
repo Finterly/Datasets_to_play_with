@@ -1,0 +1,482 @@
+date,year,event_type,perm_perc,event_descr,perc
+1991-01-12,1991,Event,0.4,US Congress authorizes the use of force to liberate Kuwait,0.004928803434390233
+1991-01-12,1991,Event,0.4,US Congress authorizes the use of force to liberate Kuwait,0.10466162895359303
+1991-01-16,1991,Event,0.4,US leads international coalition “Desert Storm” to drive Iraqis out of Kuwait,0.06900324808146327
+1991-01-16,1991,Event,0.4,US leads international coalition “Desert Storm” to drive Iraqis out of Kuwait,0.10466162895359303
+1991-02-14,1991,Holiday,0.4,Valentine's Day,0.020932325790718607
+1991-02-14,1991,Holiday,0.4,Valentine's Day,0.03943042747512186
+1991-07-31,1991,Event,0.4,US and Soviet Union sign START I treaty to reduce strategic nuclear arms,0.12559395474431165
+1991-07-31,1991,Event,0.4,US and Soviet Union sign START I treaty to reduce strategic nuclear arms,0.034501624040731635
+1991-10-31,1991,Holiday,0.4,Halloween,0.08378965838463397
+1991-10-31,1991,Holiday,0.4,Halloween,0.3558495384422163
+1991-11-28,1991,Holiday,0.4,Thanksgiving,0.041864651581437214
+1991-11-28,1991,Holiday,0.4,Thanksgiving,0.0443592309095121
+1991-12-31,1991,Holiday,0.4,Christmas,0.14652628053503025
+1991-12-31,1991,Holiday,0.4,Christmas,0.034501624040731635
+1992-02-01,1992,Event,0.4,President Bush and Russian president Boris Yeltsin meet and declare an end to the cold war,0.05602554764972827
+1992-02-01,1992,Event,0.4,President Bush and Russian president Boris Yeltsin meet and declare an end to the cold war,0.03872666718302223
+1992-02-14,1992,Holiday,0.4,Valentine's Day,0.05163555624402964
+1992-02-14,1992,Holiday,0.4,Valentine's Day,0.05042299288475545
+1992-04-29,1992,Event,0.4,Riots in Los Angeles county after the acquittal of four white police officers charged in the beating of black motorist Rodney King,0.03872666718302223
+1992-04-29,1992,Event,0.4,Riots in Los Angeles county after the acquittal of four white police officers charged in the beating of black motorist Rodney King,0.1008459857695109
+1992-10-31,1992,Holiday,0.4,Halloween,0.1848843072441033
+1992-10-31,1992,Holiday,0.4,Halloween,0.02581777812201482
+1992-11-03,1992,Event,0.4,Democratic candidate Bill Clinton wins Presidential Election,0.06723065717967393
+1992-11-03,1992,Event,0.4,Democratic candidate Bill Clinton wins Presidential Election,0.05163555624402964
+1992-11-26,1992,Holiday,0.4,Thanksgiving,0.01290888906100741
+1992-11-26,1992,Holiday,0.4,Thanksgiving,0.05602554764972827
+1992-12-04,1992,Event,0.4,President Bush authorizes sending US troops to Somalia as part of UN relief effort,0.05163555624402964
+1992-12-04,1992,Event,0.4,President Bush authorizes sending US troops to Somalia as part of UN relief effort,0.05602554764972827
+1992-12-31,1992,Holiday,0.4,Christmas,0.02581777812201482
+1992-12-31,1992,Holiday,0.4,Christmas,0.06723065717967393
+1993-01-20,1993,Event,0.4,Bill Clinton is inaugurated as the 42nd president,0.06109312258057349
+1993-01-20,1993,Event,0.4,Bill Clinton is inaugurated as the 42nd president,0.038153861806712534
+1993-02-14,1993,Holiday,0.4,Valentine's Day,0.038153861806712534
+1993-02-14,1993,Holiday,0.4,Valentine's Day,0.08886272375356145
+1993-02-26,1993,Event,0.4,Bomb explodes in basement garage of World Trade Center,0.05087181574228338
+1993-02-26,1993,Event,0.4,Bomb explodes in basement garage of World Trade Center,0.08330880351896386
+1993-05-05,1993,Event,0.4,The Supreme Court of Hawaii : Baehr v Miike trial to determine if limiting marriage to different-sex couples is unconstitutional,0.10552448445735423
+1993-05-05,1993,Event,0.4,The Supreme Court of Hawaii : Baehr v Miike trial to determine if limiting marriage to different-sex couples is unconstitutional,0.02543590787114169
+1993-06-26,1993,Event,0.4,President Clinton orders missile attack against Iraq in retaliation for alleged plot to assassinate former President Bush,0.07775488328436626
+1993-06-26,1993,Event,0.4,President Clinton orders missile attack against Iraq in retaliation for alleged plot to assassinate former President Bush,0.012717953935570845
+1993-10-03,1993,Event,0.4,Eighteen US soldiers are killed in ambush by Somali militiamen in Mogadishu,0.038153861806712534
+1993-10-03,1993,Event,0.4,Eighteen US soldiers are killed in ambush by Somali militiamen in Mogadishu,0.1277401653957446
+1993-10-31,1993,Holiday,0.4,Halloween,0.038153861806712534
+1993-10-31,1993,Holiday,0.4,Halloween,0.09997056422275663
+1993-11-25,1993,Holiday,0.4,Thanksgiving,0.05553920234597591
+1993-11-25,1993,Holiday,0.4,Thanksgiving,0.012717953935570845
+1993-12-08,1993,Event,0.4,President Clinton signs North American Free Trade Agreement into law,0.08330880351896386
+1993-12-08,1993,Event,0.4,President Clinton signs North American Free Trade Agreement into law,0.05087181574228338
+1993-12-31,1993,Holiday,0.4,Christmas,0.038153861806712534
+1993-12-31,1993,Holiday,0.4,Christmas,0.033323521407585543
+1994-02-14,1994,Holiday,0.4,Valentine's Day,0.07193010606924102
+1994-02-14,1994,Holiday,0.4,Valentine's Day,0.02491311550966006
+1994-05-06,1994,Event,0.4,"Paula Jones, a former Arkansas state employee, files a federal lawsuit against President Clinton for sexual harassment",0.10512861656273689
+1994-05-06,1994,Event,0.4,"Paula Jones, a former Arkansas state employee, files a federal lawsuit against President Clinton for sexual harassment",0.07473934652898018
+1994-06-12,1994,Event,0.4,"High profile OJ Simpson murder case Simpson is later acquitted on October 3, 1995",0.02491311550966006
+1994-06-12,1994,Event,0.4,"High profile OJ Simpson murder case Simpson is later acquitted on October 3, 1995",0.06086393590474241
+1994-09-13,1994,Event,0.4,"President Bill Clinton signs the Assault Weapons Ban, which bars the use of these weapons for ten years",0.09959553148048758
+1994-09-13,1994,Event,0.4,"President Bill Clinton signs the Assault Weapons Ban, which bars the use of these weapons for ten years",0.02491311550966006
+1994-10-31,1994,Holiday,0.4,Halloween,0.07473934652898018
+1994-10-31,1994,Holiday,0.4,Halloween,0.17705872263197792
+1994-11-24,1994,Holiday,0.4,Thanksgiving,0.01245655775483003
+1994-11-24,1994,Holiday,0.4,Thanksgiving,0.03319851049349586
+1994-12-31,1994,Holiday,0.4,Christmas,0.01245655775483003
+1994-12-31,1994,Holiday,0.4,Christmas,0.03873159557574517
+1995-02-14,1995,Holiday,0.4,Valentine's Day,0.024936101240571037
+1995-02-14,1995,Holiday,0.4,Valentine's Day,0.07651234854653864
+1995-04-19,1995,Event,0.4,Bombing of federal office building in Oklahoma City kills 168 people,0.12569885832645633
+1995-04-19,1995,Event,0.4,Bombing of federal office building in Oklahoma City kills 168 people,0.024936101240571037
+1995-06-11,1995,Event,0.4,US establishes full diplomatic relations with Vietnam,0.024936101240571037
+1995-06-11,1995,Event,0.4,US establishes full diplomatic relations with Vietnam,0.08744268405318702
+1995-10-31,1995,Holiday,0.4,Halloween,0.049872202481142075
+1995-10-31,1995,Holiday,0.4,Halloween,0.21314154237964333
+1995-11-23,1995,Holiday,0.4,Thanksgiving,0.024936101240571037
+1995-11-23,1995,Holiday,0.4,Thanksgiving,0.04372134202659351
+1995-12-01,1995,Event,0.4,US troops sent to Bosnia for 12-month peacekeeping mission,0.012468050620285519
+1995-12-01,1995,Event,0.4,US troops sent to Bosnia for 12-month peacekeeping mission,0.08197751629986283
+1995-12-16,1995,Event,0.4,Budget standoff between President Clinton and Congress results in partial shutdown of US government,0.07651234854653864
+1995-12-16,1995,Event,0.4,Budget standoff between President Clinton and Congress results in partial shutdown of US government,0.037404151860856556
+1995-12-31,1995,Holiday,0.4,Christmas,0.03825617427326932
+1996-02-14,1996,Holiday,0.4,Valentine's Day,0.013377210584049015
+1996-02-14,1996,Holiday,0.4,Valentine's Day,0.12570183524679462
+1996-09-21,1996,Event,0.4,"President Bill Clinton signs into law the Defense of Marriage Act (DOMA), denying federal recognition of same-sex marriages",0.04013163175214704
+1996-09-21,1996,Event,0.4,"President Bill Clinton signs into law the Defense of Marriage Act (DOMA), denying federal recognition of same-sex marriages",0.10998910584094528
+1996-10-31,1996,Holiday,0.4,Halloween,0.23045336461912344
+1996-10-31,1996,Holiday,0.4,Halloween,0.06688605292024508
+1996-11-05,1996,Event,0.4,President Bill Clinton wins re-election,0.0995139529037124
+1996-11-05,1996,Event,0.4,President Bill Clinton wins re-election,0.02675442116809803
+1996-11-28,1996,Holiday,0.4,Thanksgiving,0.013377210584049015
+1996-11-28,1996,Holiday,0.4,Thanksgiving,0.06285091762339731
+1996-12-31,1996,Holiday,0.4,Christmas,0.08380122349786308
+1996-12-31,1996,Holiday,0.4,Christmas,0.013377210584049015
+1997-01-20,1997,Event,0.4,Clinton's second inauguration,0.08866542882773872
+1997-01-20,1997,Event,0.4,Clinton's second inauguration,0.013117506624340846
+1997-02-14,1997,Holiday,0.4,Valentine's Day,0.0573717480650074
+1997-02-14,1997,Holiday,0.4,Valentine's Day,0.02623501324868169
+1997-10-31,1997,Holiday,0.4,Halloween,0.013117506624340846
+1997-10-31,1997,Holiday,0.4,Halloween,0.20340892495775353
+1997-11-27,1997,Holiday,0.4,Thanksgiving,0.020862453841820876
+1997-11-27,1997,Holiday,0.4,Thanksgiving,0.03935251987302254
+1997-12-31,1997,Holiday,0.4,Christmas,0.04172490768364175
+1997-12-31,1997,Holiday,0.4,Christmas,0.013117506624340846
+1998-01-17,1998,Event,0.4,President Clinton denies having had a sexual relationship with White House intern Monica Lewinsky,0.13403443653984945
+1998-01-17,1998,Event,0.4,President Clinton denies having had a sexual relationship with White House intern Monica Lewinsky,0.05224114512590116
+1998-02-02,1998,Event,0.4,President Clinton releases 1999 federal budget plan; it is the first balanced budget since 1969,0.05224114512590116
+1998-02-02,1998,Event,0.4,President Clinton releases 1999 federal budget plan; it is the first balanced budget since 1969,0.14434477781214558
+1998-02-14,1998,Holiday,0.4,Valentine's Day,0.07732755954222086
+1998-02-14,1998,Holiday,0.4,Valentine's Day,0.05224114512590116
+1998-02-27,1998,Event,0.4,"In Brause v Bureau of Vital Statistics, an Alaska court orders the state to show it has a compelling reason for prohibiting same-sex couples from marrying",0.05224114512590116
+1998-02-27,1998,Event,0.4,"In Brause v Bureau of Vital Statistics, an Alaska court orders the state to show it has a compelling reason for prohibiting same-sex couples from marrying",0.09279307145066502
+1998-08-17,1998,Event,0.4,"In televised address, President Clinton admits having had a sexual relationship with Monica Lewinsky",0.11856892463140531
+1998-08-17,1998,Event,0.4,"In televised address, President Clinton admits having had a sexual relationship with Monica Lewinsky",0.02612057256295058
+1998-08-20,1998,Event,0.4,US launches missile attacks on targets in Sudan and Afghanistan following terrorist attacks on US embassies in Kenya and Tanzania,0.041241365089184454
+1998-08-20,1998,Event,0.4,US launches missile attacks on targets in Sudan and Afghanistan following terrorist attacks on US embassies in Kenya and Tanzania,0.05224114512590116
+1998-10-31,1998,Holiday,0.4,Halloween,0.2268275079905145
+1998-10-31,1998,Holiday,0.4,Halloween,0.03918085884442587
+1998-11-26,1998,Holiday,0.4,Thanksgiving,0.051551706361480563
+1998-11-26,1998,Holiday,0.4,Thanksgiving,0.02612057256295058
+1998-12-16,1998,Event,0.4,US and Britain launch air strikes against weapons sites in Iraq,0.01306028628147529
+1998-12-16,1998,Event,0.4,US and Britain launch air strikes against weapons sites in Iraq,0.11856892463140531
+1998-12-19,1998,Event,0.4,House of Representatives votes to impeach President Clinton on charges of perjury and obstruction of justice,0.051551706361480563
+1998-12-19,1998,Event,0.4,House of Representatives votes to impeach President Clinton on charges of perjury and obstruction of justice,0.05224114512590116
+1998-12-31,1998,Holiday,0.4,Christmas,0.03918085884442587
+1998-12-31,1998,Holiday,0.4,Christmas,0.05670687699762862
+1999-02-12,1999,Event,0.4,Senate acquits Clinton of impeachment charges,0.08101963206959586
+1999-02-12,1999,Event,0.4,Senate acquits Clinton of impeachment charges,0.03837298541826554
+1999-02-14,1999,Holiday,0.4,Valentine's Day,0.1215294481043938
+1999-02-14,1999,Holiday,0.4,Valentine's Day,0.07674597083653108
+1999-03-24,1999,Event,0.4,NATO wages air campaign against Yugoslavia over killing and deportation of ethnic Albanians in Kosovo,0.06582845105654664
+1999-03-24,1999,Event,0.4,NATO wages air campaign against Yugoslavia over killing and deportation of ethnic Albanians in Kosovo,0.03837298541826554
+1999-03-29,1999,Event,0.4,"The Dow Jones Industrial Average closes above 10,000 for the first time",0.012790995139421847
+1999-03-29,1999,Event,0.4,"The Dow Jones Industrial Average closes above 10,000 for the first time",0.08101963206959586
+1999-04-20,1999,Event,0.4,"School shooting at Columbine High School in Littleton, Colorado",0.12659317510874354
+1999-04-20,1999,Event,0.4,"School shooting at Columbine High School in Littleton, Colorado",0.03837298541826554
+1999-10-31,1999,Holiday,0.4,Halloween,0.012790995139421847
+1999-10-31,1999,Holiday,0.4,Halloween,0.20761280717833938
+1999-11-15,1999,Event,0.4,US and China sign historic trade agreement,0.025581990278843694
+1999-11-15,1999,Event,0.4,US and China sign historic trade agreement,0.11646572110004406
+1999-11-25,1999,Holiday,0.4,Thanksgiving,0.025318635021748706
+1999-11-25,1999,Holiday,0.4,Thanksgiving,0.012790995139421847
+1999-12-09,1999,Event,0.4,The Supreme Court of Hawaii in Baehr v Miike upholds the state's ban on same-sex marriage,0.08608335907394561
+1999-12-09,1999,Event,0.4,The Supreme Court of Hawaii in Baehr v Miike upholds the state's ban on same-sex marriage,0.05116398055768739
+1999-12-20,1999,Event,0.4,The Vermont Supreme Court: Baker v Vermont excluding same-sex couples from marriage violates the Vermont Constitution ,0.012790995139421847
+1999-12-20,1999,Event,0.4,The Vermont Supreme Court: Baker v Vermont excluding same-sex couples from marriage violates the Vermont Constitution ,0.08101963206959586
+1999-12-31,1999,Holiday,0.4,Christmas,0.05570099704784716
+1999-12-31,1999,Holiday,0.4,Christmas,0.025581990278843694
+2000-02-14,2000,Holiday,0.4,Valentine's Day,0.1222687322890145
+2000-02-14,2000,Holiday,0.4,Valentine's Day,0.021527752861397152
+2000-03-07,2000,Event,0.4,"California voters approve Proposition 22, against same-sex marriage",0.17980695924855075
+2000-03-07,2000,Event,0.4,"California voters approve Proposition 22, against same-sex marriage",0.050231423343260015
+2000-04-01,2000,Event,0.4,"According to the census, the nation's population numbers more than 280 million",0.1654224025086667
+2000-04-01,2000,Event,0.4,"According to the census, the nation's population numbers more than 280 million",0.11481468192745146
+2000-07-01,2000,Event,0.4," Vermont institutes the first civil unions in the United States, in response to the decision in Baker v Vermont",0.1150764539190725
+2000-07-01,2000,Event,0.4," Vermont institutes the first civil unions in the United States, in response to the decision in Baker v Vermont",0.08611101144558861
+2000-10-31,2000,Holiday,0.4,Halloween,0.244537464578029
+2000-10-31,2000,Holiday,0.4,Halloween,0.07893509382512288
+2000-11-07,2000,Event,0.4,Hillary Clinton wins a seat for the United States Senate from New York,0.014351835240931433
+2000-11-07,2000,Event,0.4,Hillary Clinton wins a seat for the United States Senate from New York,0.1150764539190725
+2000-11-07,2000,Event,0.4,Close presidential election between Al Gore and George W Bush,0.014351835240931433
+2000-11-07,2000,Event,0.4,Close presidential election between Al Gore and George W Bush,0.1150764539190725
+2000-11-23,2000,Holiday,0.4,Thanksgiving,0.043153670219652183
+2000-11-23,2000,Holiday,0.4,Thanksgiving,0.03587958810232859
+2000-12-12,2000,Event,0.4,US Supreme Court rules against a manual recount of ballots in certain Florida counties. The decision provokes enormous controversy,0.043153670219652183
+2000-12-12,2000,Event,0.4,US Supreme Court rules against a manual recount of ballots in certain Florida counties. The decision provokes enormous controversy,0.028703670481862866
+2000-12-13,2000,Event,0.4,Bush formally accepts the presidency,0.0719227836994203
+2000-12-13,2000,Event,0.4,Bush formally accepts the presidency,0.028703670481862866
+2000-12-31,2000,Holiday,0.4,Christmas,0.06473050532947827
+2000-12-31,2000,Holiday,0.4,Christmas,0.021527752861397152
+2001-01-20,2001,Event,0.4,George W Bush is inaugurated as the 43rd president,0.13562612873061083
+2001-01-20,2001,Event,0.4,George W Bush is inaugurated as the 43rd president,0.05680486817720278
+2001-02-14,2001,Holiday,0.4,Valentine's Day,0.07138217301611097
+2001-02-14,2001,Holiday,0.4,Valentine's Day,0.03550304261075174
+2001-09-11,2001,Event,0.4,"September 11 attacks: four coordinated terrorist attacks on twin towers of World Trade Center, the Pentagon, and rural Pennsylvania.",0.37633225167396844
+2001-09-11,2001,Event,0.4,"September 11 attacks: four coordinated terrorist attacks on twin towers of World Trade Center, the Pentagon, and rural Pennsylvania.",0.670992426351443
+2001-10-07,2001,Event,0.4,US and Britain launch air attacks against targets in Afghanistan,0.19273186714349957
+2001-10-07,2001,Event,0.4,US and Britain launch air attacks against targets in Afghanistan,0.07100608522150348
+2001-10-31,2001,Holiday,0.4,Halloween,0.14201217044300696
+2001-10-31,2001,Holiday,0.4,Halloween,0.21414651904833287
+2001-11-22,2001,Holiday,0.4,Thanksgiving,0.02840243408860139
+2001-11-22,2001,Holiday,0.4,Thanksgiving,0.07138217301611097
+2001-12-09,2001,Event,0.4,Air campaign and ground assault by Afghani opposition troops topples the Taliban regime,0.021301825566451046
+2001-12-09,2001,Event,0.4,Air campaign and ground assault by Afghani opposition troops topples the Taliban regime,0.04996752111127767
+2001-12-31,2001,Holiday,0.4,Christmas,0.03569108650805548
+2001-12-31,2001,Holiday,0.4,Christmas,0.02840243408860139
+2002-01-29,2002,Event,0.4,President Bush declares war against states that develop weapons of mass destruction,0.06320801758587512
+2002-01-29,2002,Event,0.4,President Bush declares war against states that develop weapons of mass destruction,0.07726726747820713
+2002-02-14,2002,Holiday,0.4,Valentine's Day,0.08427735678116682
+2002-02-14,2002,Holiday,0.4,Valentine's Day,0.0280971881738935
+2002-10-31,2002,Holiday,0.4,Halloween,0.10534669597645853
+2002-10-31,2002,Holiday,0.4,Halloween,0.056194376347787
+2002-11-25,2002,Event,0.4,President Bush signs legislation creating a new cabinet department of Homeland Security,0.09832358291136128
+2002-11-25,2002,Event,0.4,President Bush signs legislation creating a new cabinet department of Homeland Security,0.04917007930431362
+2002-11-28,2002,Holiday,0.4,Thanksgiving,0.035121485217366875
+2002-11-28,2002,Holiday,0.4,Thanksgiving,0.04916179145568064
+2002-12-31,2002,Holiday,0.4,Christmas,0.06320801758587512
+2002-12-31,2002,Holiday,0.4,Christmas,0.07024297043473375
+2003-02-01,2003,Event,0.4,Space shuttle Columbia explodes upon reentry into Earth's atmosphere,0.020757223513782796
+2003-02-01,2003,Event,0.4,Space shuttle Columbia explodes upon reentry into Earth's atmosphere,0.09114875476778102
+2003-02-14,2003,Holiday,0.4,Valentine's Day,0.08413731209333632
+2003-02-14,2003,Holiday,0.4,Valentine's Day,0.03459537252297133
+2003-03-19,2003,Event,0.4,War waged by the US and Britain against Iraq begins,0.027676298018377062
+2003-03-19,2003,Event,0.4,War waged by the US and Britain against Iraq begins,0.1191945254655598
+2003-05-28,2003,Event,0.4,President Bush signs $350 billion tax-cut bill,0.1191945254655598
+2003-05-28,2003,Event,0.4,President Bush signs $350 billion tax-cut bill,0.06919074504594266
+2003-10-31,2003,Holiday,0.4,Halloween,0.06919074504594266
+2003-10-31,2003,Holiday,0.4,Halloween,0.18930895221000674
+2003-11-18,2003,Event,0.4,Massachusetts becomes first state to legalize same-sex marriage,0.07011442674444694
+2003-11-18,2003,Event,0.4,Massachusetts becomes first state to legalize same-sex marriage,0.055352596036754124
+2003-11-27,2003,Holiday,0.4,Thanksgiving,0.04151444702756559
+2003-11-27,2003,Holiday,0.4,Thanksgiving,0.04908009872111286
+2003-12-13,2003,Event,0.4," Saddam Hussein, former leader of Iraq, is captured",0.04206865604666816
+2003-12-13,2003,Event,0.4," Saddam Hussein, former leader of Iraq, is captured",0.027676298018377062
+2003-12-31,2003,Holiday,0.4,Christmas,0.07011442674444694
+2003-12-31,2003,Holiday,0.4,Christmas,0.0069190745045942656
+2004-02-03,2004,Event,0.4,CIA admits that there was no weapons of mass destruction before the 2003 Iraq war,0.07140205066689514
+2004-02-03,2004,Event,0.4,CIA admits that there was no weapons of mass destruction before the 2003 Iraq war,0.01999773359019311
+2004-02-12,2004,Event,0.4,San Francisco issues marriage licenses to same-sex couples,0.046661378377117264
+2004-02-12,2004,Event,0.4,San Francisco issues marriage licenses to same-sex couples,0.10710307600034273
+2004-02-14,2004,Holiday,0.4,Valentine's Day,0.05999320077057933
+2004-02-14,2004,Holiday,0.4,Valentine's Day,0.21420615200068546
+2004-02-25,2004,Event,0.4,President George W Bush calls for a constitutional amendment against same-sex marriage,0.03999546718038622
+2004-02-25,2004,Event,0.4,President George W Bush calls for a constitutional amendment against same-sex marriage,0.11424328106703224
+2004-02-27,2004,Event,0.4,"Several same-sex couples are wed in New York, but later invalidated",0.11424328106703224
+2004-02-27,2004,Event,0.4,"Several same-sex couples are wed in New York, but later invalidated",0.046661378377117264
+2004-05-17,2004,Event,0.4,Same-sex marriage starts in Massachusetts,0.026663644786924148
+2004-05-17,2004,Event,0.4,Same-sex marriage starts in Massachusetts,0.0928226658669637
+2004-06-28,2004,Event,0.4,The US returns sovereignty to an interim government in Iraq,0.12852369120041127
+2004-06-28,2004,Event,0.4,The US returns sovereignty to an interim government in Iraq,0.053327289573848295
+2004-07-04,2004,Event,0.4,The groundbreaking ceremony for the Freedom Tower at Ground Zero,0.07854225573358467
+2004-07-04,2004,Event,0.4,The groundbreaking ceremony for the Freedom Tower at Ground Zero,0.03999546718038622
+2004-08-12,2004,Event,0.4,The California Supreme Court voids  same-sex marriages performed in San Francisco,0.046661378377117264
+2004-08-12,2004,Event,0.4,The California Supreme Court voids  same-sex marriages performed in San Francisco,0.09996287093365322
+2004-10-31,2004,Holiday,0.4,Halloween,0.06665911196731036
+2004-10-31,2004,Holiday,0.4,Halloween,0.19992574186730644
+2004-11-02,2004,Event,0.4,President George W Bush wins reelection,0.046661378377117264
+2004-11-02,2004,Event,0.4,President George W Bush wins reelection,0.10710307600034273
+2004-11-25,2004,Holiday,0.4,Thanksgiving,0.026663644786924148
+2004-11-25,2004,Holiday,0.4,Thanksgiving,0.08568246080027418
+2004-12-31,2004,Holiday,0.4,Christmas,0.06426184560020563
+2004-12-31,2004,Holiday,0.4,Christmas,0.06665911196731036
+2005-02-14,2005,Holiday,0.4,Valentine's Day,0.09966540898412472
+2005-02-14,2005,Holiday,0.4,Valentine's Day,0.01972062448644207
+2005-04-22,2005,Event,0.4,The US engagement in Iraq continues,0.026294165981922763
+2005-04-22,2005,Event,0.4,The US engagement in Iraq continues,0.1352601979070264
+2005-06-17,2005,Event,0.4,"American soldiers search for insurgents in Mosul, Iraq",0.026294165981922763
+2005-06-17,2005,Event,0.4,"American soldiers search for insurgents in Mosul, Iraq",0.08542749341496404
+2005-07-01,2005,Event,0.4,Sandra Day O'Connor announces her retirement as a Supreme Court Justice,0.026294165981922763
+2005-07-01,2005,Event,0.4,Sandra Day O'Connor announces her retirement as a Supreme Court Justice,0.12102228233786574
+2005-08-29,2005,Event,0.4,Hurricane Katrina wreaks catastrophic damage on Mississippi and Louisiana,0.08542749341496404
+2005-08-29,2005,Event,0.4,Hurricane Katrina wreaks catastrophic damage on Mississippi and Louisiana,0.03944124897288414
+2005-09-03,2005,Event,0.4,Chief Justice William H Rehnquist passes away after battling thyroid cancer,0.07118957784580338
+2005-09-03,2005,Event,0.4,Chief Justice William H Rehnquist passes away after battling thyroid cancer,0.026294165981922763
+2005-09-29,2005,Event,0.4,John G Roberts assumes the role of chief justice,0.03286770747740345
+2005-09-29,2005,Event,0.4,John G Roberts assumes the role of chief justice,0.07830853563038372
+2005-10-31,2005,Holiday,0.4,Halloween,0.26340143802947247
+2005-10-31,2005,Holiday,0.4,Halloween,0.03944124897288414
+2005-11-24,2005,Holiday,0.4,Thanksgiving,0.03559478892290169
+2005-11-24,2005,Holiday,0.4,Thanksgiving,0.013147082990961382
+2005-12-31,2005,Holiday,0.4,Christmas,0.04601479046836483
+2005-12-31,2005,Holiday,0.4,Christmas,0.02135687335374101
+2006-02-14,2006,Holiday,0.4,Valentine's Day,0.012927245462536843
+2006-02-14,2006,Holiday,0.4,Valentine's Day,0.07792189392705094
+2006-10-17,2006,Event,0.4,Population of the US reaches 300 million stirring up debate on immigration policy,0.10625712808234218
+2006-10-17,2006,Event,0.4,Population of the US reaches 300 million stirring up debate on immigration policy,0.05817260458141579
+2006-10-31,2006,Holiday,0.4,Halloween,0.19834663908703876
+2006-10-31,2006,Holiday,0.4,Halloween,0.06463622731268422
+2006-11-07,2006,Event,0.4,Both houses of Congress change back to Democratic hands for the first time since 1994,0.06463622731268422
+2006-11-07,2006,Event,0.4,Both houses of Congress change back to Democratic hands for the first time since 1994,0.09917331954351938
+2006-11-23,2006,Holiday,0.4,Thanksgiving,0.03541904269411407
+2006-11-23,2006,Holiday,0.4,Thanksgiving,0.012927245462536843
+2006-12-31,2006,Holiday,0.4,Christmas,0.012927245462536843
+2006-12-31,2006,Holiday,0.4,Christmas,0.07792189392705094
+2007-01-04,2007,Event,0.4,California Democrat Nancy Pelosi becomes the first woman Speaker of the House of Representatives,0.03828264073655801
+2007-01-04,2007,Event,0.4,California Democrat Nancy Pelosi becomes the first woman Speaker of the House of Representatives,0.16973966179372388
+2007-01-10,2007,Event,0.4,"President George W Bush announces a troop surge of 21,500 for the war in Iraq",0.019141320368279004
+2007-01-10,2007,Event,0.4,"President George W Bush announces a troop surge of 21,500 for the war in Iraq",0.0707248590807183
+2007-02-14,2007,Holiday,0.4,Valentine's Day,0.03828264073655801
+2007-02-14,2007,Holiday,0.4,Valentine's Day,0.0495074013565028
+2007-04-16,2007,Event,0.4,Virginia tech school shooting,0.09194231680493377
+2007-04-16,2007,Event,0.4,Virginia tech school shooting,0.06380440122759667
+2007-06-02,2007,Event,0.4, A terror plot to blow up JFK International Airport is thwarted,0.03828264073655801
+2007-06-02,2007,Event,0.4, A terror plot to blow up JFK International Airport is thwarted,0.10608728862107743
+2007-07-24,2007,Event,0.4,"The minimum wage in the US increases to $5.85, and each year through 2009 to $7.25 an hour.",0.06365237317264645
+2007-07-24,2007,Event,0.4,"The minimum wage in the US increases to $5.85, and each year through 2009 to $7.25 an hour.",0.04466308085931768
+2007-10-31,2007,Holiday,0.4,Halloween,0.051043520982077345
+2007-10-31,2007,Holiday,0.4,Halloween,0.2263195490582985
+2007-11-22,2007,Holiday,0.4,Thanksgiving,0.012760880245519336
+2007-11-22,2007,Holiday,0.4,Thanksgiving,0.04243491544843097
+2007-12-31,2007,Holiday,0.4,Christmas,0.028289943632287314
+2007-12-31,2007,Holiday,0.4,Christmas,0.019141320368279004
+2008-02-14,2008,Holiday,0.4,Valentine's Day,0.021404567734754597
+2008-02-14,2008,Holiday,0.4,Valentine's Day,0.07245851749873199
+2008-05-14,2008,Event,0.4,New York Governor David Paterson orders state agencies to recognize same-sex marriages from other jurisdictions,0.03210685160213189
+2008-05-14,2008,Event,0.4,New York Governor David Paterson orders state agencies to recognize same-sex marriages from other jurisdictions,0.10144192449822477
+2008-05-15,2008,Event,0.4,The Supreme Court of California decides In re Marriage Cases and overturns the state's ban on same-sex marriage,0.10627249233147357
+2008-05-15,2008,Event,0.4,The Supreme Court of California decides In re Marriage Cases and overturns the state's ban on same-sex marriage,0.06421370320426378
+2008-06-03,2008,Event,0.4,Barack Obama and John McCain are presidential nominees,0.11593362799797116
+2008-06-03,2008,Event,0.4,Barack Obama and John McCain are presidential nominees,0.0749159870716411
+2008-06-17,2008,Event,0.4,"In California, county clerks begin issuing marriage licenses to same-sex couples",0.10627249233147357
+2008-06-17,2008,Event,0.4,"In California, county clerks begin issuing marriage licenses to same-sex couples",0.03210685160213189
+2008-08-29,2008,Event,0.4,Sarah Palin's candicacy for Vice President announced,0.08211965316522958
+2008-08-29,2008,Event,0.4,Sarah Palin's candicacy for Vice President announced,0.08561827093901839
+2008-10-03,2008,Event,0.4,The United States Congress passes legislation for a $700 billion bailout,0.06421370320426378
+2008-10-03,2008,Event,0.4,The United States Congress passes legislation for a $700 billion bailout,0.08695022099847838
+2008-10-31,2008,Holiday,0.4,Halloween,0.1498319741432822
+2008-10-31,2008,Holiday,0.4,Halloween,0.14491703499746397
+2008-11-04,2008,Event,0.4,Barack Obama becomes  first African-American to be elected President,0.09661135666497597
+2008-11-04,2008,Event,0.4,Barack Obama becomes  first African-American to be elected President,0.08561827093901839
+2008-11-12,2008,Event,0.4,Same-sex marriage starts in Connecticut,0.09178078883172718
+2008-11-12,2008,Event,0.4,Same-sex marriage starts in Connecticut,0.03210685160213189
+2008-11-27,2008,Holiday,0.4,Thanksgiving,0.021404567734754597
+2008-11-27,2008,Holiday,0.4,Thanksgiving,0.048305678332487986
+2008-12-31,2008,Holiday,0.4,Christmas,0.04347511049923919
+2008-12-31,2008,Holiday,0.4,Christmas,0.042809135469509194
+2009-01-20,2009,Event,0.4,Barack Obama takes the oath of office for President of the United States,0.042341035873442644
+2009-01-20,2009,Event,0.4,Barack Obama takes the oath of office for President of the United States,0.05748392845167039
+2009-02-14,2009,Holiday,0.4,Valentine's Day,0.021170517936721322
+2009-02-14,2009,Holiday,0.4,Valentine's Day,0.03353229159680773
+2009-04-15,2009,Event,0.4,750 grass roots Tea Party protests spring up across the nation,0.042341035873442644
+2009-04-15,2009,Event,0.4,750 grass roots Tea Party protests spring up across the nation,0.06227425582264291
+2009-06-11,2009,Event,0.4,"The H1N1 virus, named the Swine Flu, is deemed a global pandemic by the World Health Organization",0.05748392845167039
+2009-06-11,2009,Event,0.4,"The H1N1 virus, named the Swine Flu, is deemed a global pandemic by the World Health Organization",0.052926294841803306
+2009-10-31,2009,Event,0.4,"The economic recession continues to deepen as jobless claims climb above 100%, reaching 102%",0.08468207174688529
+2009-10-31,2009,Event,0.4,"The economic recession continues to deepen as jobless claims climb above 100%, reaching 102%",0.11017752953236824
+2009-10-31,2009,Holiday,0.4,Halloween,0.08468207174688529
+2009-10-31,2009,Holiday,0.4,Halloween,0.11017752953236824
+2009-11-26,2009,Holiday,0.4,Thanksgiving,0.03832261896778026
+2009-11-26,2009,Holiday,0.4,Thanksgiving,0.021170517936721322
+2009-12-01,2009,Event,0.4,"President Obama announces a surge of 30,000 additional troops to Afghanistan",0.06351155381016398
+2009-12-01,2009,Event,0.4,"President Obama announces a surge of 30,000 additional troops to Afghanistan",0.05748392845167039
+2009-12-31,2009,Holiday,0.4,Christmas,0.043112946338752796
+2009-12-31,2009,Holiday,0.4,Christmas,0.03175577690508199
+2010-01-19,2010,Event,0.4,"Scott Brown, a Republican reformer from Massachusetts, wins special election Senate seat",0.028548725537310804
+2010-01-19,2010,Event,0.4,"Scott Brown, a Republican reformer from Massachusetts, wins special election Senate seat",0.03146072128947009
+2010-02-14,2010,Holiday,0.4,Valentine's Day,0.028548725537310804
+2010-03-25,2010,Event,0.4,"The Health Care legislation, the Affordable Care Act is finalized",0.052339330151736474
+2010-03-25,2010,Event,0.4,"The Health Care legislation, the Affordable Care Act is finalized",0.06292144257894018
+2010-04-20,2010,Event,0.4,A British Petroleum deep water oil rig explodes in the Gulf of Mexico,0.08564617661193243
+2010-04-20,2010,Event,0.4,A British Petroleum deep water oil rig explodes in the Gulf of Mexico,0.05243453548245016
+2010-10-31,2010,Holiday,0.4,Halloween,0.09040429753481756
+2010-11-02,2010,Event,0.4,Republican candidates take control of the US House of Representatives,0.052339330151736474
+2010-11-02,2010,Event,0.4,Republican candidates take control of the US House of Representatives,0.010486907096490033
+2010-11-25,2010,Holiday,0.4,Thanksgiving,0.010486907096490033
+2010-11-25,2010,Holiday,0.4,Thanksgiving,0.028548725537310804
+2010-12-31,2010,Holiday,0.4,Christmas,0.04758120922885135
+2010-12-31,2010,Holiday,0.4,Christmas,0.03146072128947009
+2011-02-14,2011,Holiday,0.4,Valentine's Day,0.0661969833089035
+2011-02-14,2011,Holiday,0.4,Valentine's Day,0.02075830072550261
+2011-04-14,2011,Event,0.4,"Congress votes to pass the 2010-2011 budget, including $38 billion in fiscal year cuts",0.031137451088253918
+2011-04-14,2011,Event,0.4,"Congress votes to pass the 2010-2011 budget, including $38 billion in fiscal year cuts",0.08511040711144735
+2011-05-02,2011,Event,0.4,"Osama Bin Laden, leader of the terrorist group, Al-Queda, is killed by US and coalition forces",0.031137451088253918
+2011-05-02,2011,Event,0.4,"Osama Bin Laden, leader of the terrorist group, Al-Queda, is killed by US and coalition forces",0.11348054281526314
+2011-06-15,2011,Event,0.4,Marriage Equality Act passed legalizing same-sex marriage in New York,0.07265405253925913
+2011-06-15,2011,Event,0.4,Marriage Equality Act passed legalizing same-sex marriage in New York,0.06146862735826754
+2011-07-21,2011,Event,0.4,"The final shuttle flight lands at the Kennedy Space Center, end of the NASA shuttle space program",0.07565369521017543
+2011-07-21,2011,Event,0.4,"The final shuttle flight lands at the Kennedy Space Center, end of the NASA shuttle space program",0.031137451088253918
+2011-09-17,2011,Event,0.4,First of many Occupy Wall Street protests begin in New York City,0.031137451088253918
+2011-09-17,2011,Event,0.4,First of many Occupy Wall Street protests begin in New York City,0.0661969833089035
+2011-10-31,2011,Holiday,0.4,Halloween,0.051895751813756524
+2011-10-31,2011,Holiday,0.4,Halloween,0.08038205116081139
+2011-11-24,2011,Holiday,0.4,Thanksgiving,0.03309849165445175
+2011-11-24,2011,Holiday,0.4,Thanksgiving,0.010379150362751305
+2011-12-15,2011,Event,0.4,The war in Iraq is declared over when President Obama orders the last combat troops to leave the country,0.062274902176507836
+2011-12-15,2011,Event,0.4,The war in Iraq is declared over when President Obama orders the last combat troops to leave the country,0.07565369521017543
+2011-12-31,2011,Holiday,0.4,Christmas,0.04151660145100522
+2011-12-31,2011,Holiday,0.4,Christmas,0.05201191545699561
+2012-02-14,2012,Holiday,0.4,Valentine's Day,0.04416258898761681
+2012-02-14,2012,Holiday,0.4,Valentine's Day,0.06605724622584463
+2012-09-11,2012,Event,0.4,Terrorist attack on a consulate in the Libyan city of Benghazi kills four Americans,0.026497553392570088
+2012-09-11,2012,Event,0.4,Terrorist attack on a consulate in the Libyan city of Benghazi kills four Americans,0.055894592960330086
+2012-10-29,2012,Event,0.4,Hurricane Sand creates significant damage to coastal towns: estimated cost of $656 billion,0.04416258898761681
+2012-10-29,2012,Event,0.4,Hurricane Sand creates significant damage to coastal towns: estimated cost of $656 billion,0.03556928642930096
+2012-10-31,2012,Holiday,0.4,Halloween,0.07113857285860192
+2012-10-31,2012,Holiday,0.4,Halloween,0.035330071190093446
+2012-11-06,2012,Event,0.4,President Barack Obama wins re-election,0.04065061306205824
+2012-11-06,2012,Event,0.4,President Barack Obama wins re-election,0.035330071190093446
+2012-11-22,2012,Holiday,0.4,Thanksgiving,0.026497553392570088
+2012-11-22,2012,Holiday,0.4,Thanksgiving,0.045731939694815524
+2012-12-31,2012,Holiday,0.4,Christmas,0.008832517797523361
+2012-12-31,2012,Holiday,0.4,Christmas,0.03556928642930096
+2013-01-20,2013,Event,0.4,President Barack Obama takes oath of office,0.030101894914284853
+2013-01-20,2013,Event,0.4,President Barack Obama takes oath of office,0.05273519898748418
+2013-02-14,2013,Holiday,0.4,Valentine's Day,0.03511887739999899
+2013-02-14,2013,Holiday,0.4,Valentine's Day,0.035156799324989454
+2013-04-15,2013,Event,0.4,Two bombs explode at Boston Marathon in terrorism attack,0.02636759949374209
+2013-04-15,2013,Event,0.4,Two bombs explode at Boston Marathon in terrorism attack,0.08027171977142628
+2013-05-17,2013,Event,0.4,Congressional hearings begin on the IRS scandal of group targeting that began two years prior,0.05273519898748418
+2013-05-17,2013,Event,0.4,Congressional hearings begin on the IRS scandal of group targeting that began two years prior,0.060203789828569707
+2013-08-28,2013,Event,0.4,"50th anniversary commemoration ceremony of Martin Luther King's “I Have a Dream"" speech",0.07525473728571214
+2013-08-28,2013,Event,0.4,"50th anniversary commemoration ceremony of Martin Luther King's “I Have a Dream"" speech",0.07031359864997891
+2013-10-01,2013,Event,0.4," The Affordable Care Act, Obamacare, begins registering people",0.05518680734285556
+2013-10-01,2013,Event,0.4," The Affordable Care Act, Obamacare, begins registering people",0.10547039797496836
+2013-10-31,2013,Holiday,0.4,Halloween,0.07910279848122627
+2013-10-31,2013,Holiday,0.4,Halloween,0.0953226672285687
+2013-11-28,2013,Holiday,0.4,Thanksgiving,0.008789199831247364
+2013-11-28,2013,Holiday,0.4,Thanksgiving,0.025084912428570715
+2013-12-31,2013,Holiday,0.4,Christmas,0.04515284237142728
+2013-12-31,2013,Holiday,0.4,Christmas,0.04394599915623682
+2014-02-14,2014,Holiday,0.4,Valentine's Day,0.049777246820478356
+2014-02-14,2014,Holiday,0.4,Valentine's Day,0.03481015412195738
+2014-06-05,2014,Event,0.4,Rise of ISIS in a large amount of territory in western Syria and northern Iraq,0.05221523118293606
+2014-06-05,2014,Event,0.4,Rise of ISIS in a large amount of territory in western Syria and northern Iraq,0.05973269618457403
+2014-09-30,2014,Event,0.4,"First case of Ebola in the United States, by travel from the country of Liberia and West Africa",0.060917769713425406
+2014-09-30,2014,Event,0.4,"First case of Ebola in the United States, by travel from the country of Liberia and West Africa",0.03982179745638268
+2014-10-31,2014,Holiday,0.4,Halloween,0.10453221832300455
+2014-10-31,2014,Holiday,0.4,Halloween,0.02610761559146803
+2014-11-01,2014,Event,0.4," Obamacare, the Affordable Care Act, goes into affect for millions of Americans",0.060917769713425406
+2014-11-01,2014,Event,0.4," Obamacare, the Affordable Care Act, goes into affect for millions of Americans",0.05973269618457403
+2014-11-04,2014,Event,0.4,Republican expansion to 247 seats in the House of Representatives and 54 seats in the Senate,0.049777246820478356
+2014-11-04,2014,Event,0.4,Republican expansion to 247 seats in the House of Representatives and 54 seats in the Senate,0.04351269265244672
+2014-11-27,2014,Holiday,0.4,Thanksgiving,0.00995544936409567
+2014-12-31,2014,Holiday,0.4,Christmas,0.00995544936409567
+2015-02-14,2015,Holiday,0.4,Valentine's Day,0.01715383559763963
+2015-02-14,2015,Holiday,0.4,Valentine's Day,0.03963103506355827
+2015-04-25,2015,Event,0.4,"Riots begin in Baltimore after the death of Freddie Gray, a black man, in police custody",0.04953879382944784
+2015-04-25,2015,Event,0.4,"Riots begin in Baltimore after the death of Freddie Gray, a black man, in police custody",0.025730753396459447
+2015-06-16,2015,Event,0.4,Businessman Donald Trump joins a crowded field of Republican candidates,0.051461506792918894
+2015-06-16,2015,Event,0.4,Businessman Donald Trump joins a crowded field of Republican candidates,0.03467715568061349
+2015-06-26,2015,Event,0.4,US Supreme Court struck legalizes same-sex marriage in all fifty states,0.025730753396459447
+2015-06-26,2015,Event,0.4,US Supreme Court struck legalizes same-sex marriage in all fifty states,0.0644004319782822
+2015-07-20,2015,Event,0.4,Full diplomatic relations are reestablished between the United States and Cuba for the first time in fifty-four years,0.03963103506355827
+2015-07-20,2015,Event,0.4,Full diplomatic relations are reestablished between the United States and Cuba for the first time in fifty-four years,0.03430767119527926
+2015-09-22,2015,Event,0.4,Pope Francis makes his first visit to the United States,0.04458491444650305
+2015-09-22,2015,Event,0.4,Pope Francis makes his first visit to the United States,0.025730753396459447
+2015-10-31,2015,Holiday,0.4,Halloween,0.07926207012711654
+2015-10-31,2015,Holiday,0.4,Halloween,0.025730753396459447
+2015-11-26,2015,Holiday,0.4,Thanksgiving,0.060038424591738714
+2015-11-26,2015,Holiday,0.4,Thanksgiving,0.03467715568061349
+2015-12-02,2015,Event,0.4,"Islamic Terrorist inspired act in San Bernadino, California following Paris attacks in November.",0.03430767119527926
+2015-12-02,2015,Event,0.4,"Islamic Terrorist inspired act in San Bernadino, California following Paris attacks in November.",0.05449267321239262
+2015-12-31,2015,Holiday,0.4,Christmas,0.025730753396459447
+2015-12-31,2015,Holiday,0.4,Christmas,0.02476939691472392
+2016-02-14,2016,Holiday,0.4,Valentine's Day,0.027655479103519988
+2016-02-14,2016,Holiday,0.4,Valentine's Day,0.028752983121998907
+2016-06-12,2016,Event,0.4,"Terrorist attack in Orlando, Florida",0.06084205402774397
+2016-06-12,2016,Event,0.4,"Terrorist attack in Orlando, Florida",0.04312947468299836
+2016-10-31,2016,Holiday,0.4,Halloween,0.06637314984844797
+2016-10-31,2016,Holiday,0.4,Halloween,0.14376491560999455
+2016-11-24,2016,Holiday,0.4,Thanksgiving,0.057505966243997814
+2016-11-24,2016,Holiday,0.4,Thanksgiving,0.02212438328281599
+2016-11-28,2016,Event,0.4,Donald Trump wins presidential election,0.11501193248799563
+2016-11-28,2016,Event,0.4,Donald Trump wins presidential election,0.04977986238633598
+2016-12-29,2016,Event,0.4,Russia found to be behind a hacking scandal to influence the national presidential election,0.033186574924223985
+2016-12-29,2016,Event,0.4,Russia found to be behind a hacking scandal to influence the national presidential election,0.04312947468299836
+2016-12-31,2016,Holiday,0.4,Christmas,0.04424876656563198
+2016-12-31,2016,Holiday,0.4,Christmas,0.057505966243997814
+2017-01-20,2017,Event,0.4,Donald Trump takes oath of office,0.03292289458089155
+2017-01-20,2017,Event,0.4,Donald Trump takes oath of office,0.06414642490591857
+2017-02-11,2017,Event,0.4,North Korea fires ballistic missile over the Sea of Japan,0.08552856654122476
+2017-02-11,2017,Event,0.4,North Korea fires ballistic missile over the Sea of Japan,0.04389719277452207
+2017-02-14,2017,Holiday,0.4,Valentine's Day,0.021948596387261037
+2017-02-14,2017,Holiday,0.4,Valentine's Day,0.0784011859961227
+2017-06-01,2017,Event,0.4,United States withdraws from the Paris Climate Agreement,0.0997833276314289
+2017-06-01,2017,Event,0.4,United States withdraws from the Paris Climate Agreement,0.06035864006496784
+2017-08-25,2017,Event,0.4,"Disastrous hurricane season in the Gulf of Mexico, Caribbean, and Atlantic",0.05701904436081651
+2017-08-25,2017,Event,0.4,"Disastrous hurricane season in the Gulf of Mexico, Caribbean, and Atlantic",0.08779438554904415
+2017-10-31,2017,Holiday,0.4,Halloween,0.049384341871337334
+2017-10-31,2017,Holiday,0.4,Halloween,0.12116546926673509
+2017-11-23,2017,Holiday,0.4,Thanksgiving,0.027435745484076294
+2017-11-23,2017,Holiday,0.4,Thanksgiving,0.04989166381571445
+2017-12-22,2017,Event,0.4, President Trump signs the Tax Cuts and Jobs Act,0.03563690272551032
+2017-12-22,2017,Event,0.4, President Trump signs the Tax Cuts and Jobs Act,0.06035864006496784
+2017-12-31,2017,Holiday,0.4,Christmas,0.010974298193630518
+2017-12-31,2017,Holiday,0.4,Christmas,0.04989166381571445
+2018-02-14,2018,Holiday,0.4,Valentine's Day,0.08556271747190691
+2018-02-14,2018,Holiday,0.4,Valentine's Day,0.04901987483591959
+2018-04-10,2018,Event,0.4,Facebook founder Mark Zuckerberg responds to a Congressional inquiry,0.03812656931682634
+2018-04-10,2018,Event,0.4,Facebook founder Mark Zuckerberg responds to a Congressional inquiry,0.11408362329587587
+2018-06-11,2018,Event,0.4,President Donald Trump meets with North Korean Leader Kim Jong-un,0.09269294392789916
+2018-06-11,2018,Event,0.4,President Donald Trump meets with North Korean Leader Kim Jong-un,0.043573222076372965
+2018-07-06,2018,Event,0.4, Tariffs against $34 billion of Chinese goods go into position,0.054466527595466205
+2018-07-06,2018,Event,0.4, Tariffs against $34 billion of Chinese goods go into position,0.12121384975186812
+2018-10-31,2018,Holiday,0.4,Halloween,0.18538588785579832
+2018-10-31,2018,Holiday,0.4,Halloween,0.07080648587410607
+2018-11-06,2018,Event,0.4,Democratic gains  forty seats in the House of Representative,0.03812656931682634
+2018-11-06,2018,Event,0.4,Democratic gains  forty seats in the House of Representative,0.1497347555758371
+2018-11-22,2018,Holiday,0.4,Thanksgiving,0.04991158519194569
+2018-11-22,2018,Holiday,0.4,Thanksgiving,0.027233263797733102
+2018-12-22,2018,Event,0.4,Partial government shutdown after President Trump refuses to sign any spending package for Homeland Security that does not include funding for Mexico border barrier,0.05704181164793794
+2018-12-22,2018,Event,0.4,Partial government shutdown after President Trump refuses to sign any spending package for Homeland Security that does not include funding for Mexico border barrier,0.021786611038186483
+2018-12-31,2018,Holiday,0.4,Christmas,0.06535983311455945
+2018-12-31,2018,Holiday,0.4,Christmas,0.02852090582396897
