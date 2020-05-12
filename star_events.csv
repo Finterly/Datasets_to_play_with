@@ -1,0 +1,247 @@
+year,date,event_type,perm_perc,event_descr
+1990,1990-08-02,Event,0.4,"Iraqi troops invade Kuwait, leading to the Persian Gulf War"
+1990,1990-01-16,Event,0.4,US leads international coalition “Desert Storm” to drive Iraqis out of Kuwait
+1990,1990-07-31,Event,0.4,US and Soviet Union sign START I treaty to reduce strategic nuclear arms
+1991,1991-01-12,Event,0.4,US Congress authorizes the use of force to liberate Kuwait
+1992,1992-02-01,Event,0.4,President Bush and Russian president Boris Yeltsin meet and declare an end to the cold war
+1992,1992-04-29,Event,0.4,Riots in Los Angeles county after the acquittal of four white police officers charged in the beating of black motorist Rodney King
+1992,1992-11-03,Event,0.4,Democratic candidate Bill Clinton wins Presidential Election
+1992,1992-12-04,Event,0.4,President Bush authorizes sending US troops to Somalia as part of UN relief effort
+1993,1993-01-20,Event,0.4,Bill Clinton is inaugurated as the 42nd president
+1993,1993-02-26,Event,0.4,Bomb explodes in basement garage of World Trade Center
+1993,1993-05-05,Event,0.4,The Supreme Court of Hawaii : Baehr v Miike trial to determine if limiting marriage to different-sex couples is unconstitutional
+1993,1993-06-26,Event,0.4,President Clinton orders missile attack against Iraq in retaliation for alleged plot to assassinate former President Bush
+1993,1993-10-03,Event,0.4,Eighteen US soldiers are killed in ambush by Somali militiamen in Mogadishu
+1993,1993-12-08,Event,0.4,President Clinton signs North American Free Trade Agreement into law
+1994,1994-05-06,Event,0.4,"Paula Jones, a former Arkansas state employee, files a federal lawsuit against President Clinton for sexual harassment"
+1994,1994-06-12,Event,0.4,"High profile OJ Simpson murder case Simpson is later acquitted on October 3, 1995"
+1994,1994-09-13,Event,0.4,"President Bill Clinton signs the Assault Weapons Ban, which bars the use of these weapons for ten years"
+1995,1995-04-19,Event,0.4,Bombing of federal office building in Oklahoma City kills 168 people
+1995,1995-06-11,Event,0.4,US establishes full diplomatic relations with Vietnam
+1995,1995-12-01,Event,0.4,US troops sent to Bosnia for 12-month peacekeeping mission
+1995,1995-12-16,Event,0.4,Budget standoff between President Clinton and Congress results in partial shutdown of US government
+1996,1996-11-05,Event,0.4,President Bill Clinton wins re-election
+1996,1996-09-21,Event,0.4,"President Bill Clinton signs into law the Defense of Marriage Act (DOMA), denying federal recognition of same-sex marriages"
+1997,1997-01-20,Event,0.4,Clinton's second inauguration
+1998,1998-01-17,Event,0.4,President Clinton denies having had a sexual relationship with White House intern Monica Lewinsky
+1998,1998-02-02,Event,0.4,President Clinton releases 1999 federal budget plan; it is the first balanced budget since 1969
+1998,1998-02-27,Event,0.4,"In Brause v Bureau of Vital Statistics, an Alaska court orders the state to show it has a compelling reason for prohibiting same-sex couples from marrying"
+1998,1998-08-17,Event,0.4,"In televised address, President Clinton admits having had a sexual relationship with Monica Lewinsky"
+1998,1998-08-20,Event,0.4,US launches missile attacks on targets in Sudan and Afghanistan following terrorist attacks on US embassies in Kenya and Tanzania
+1998,1998-12-16,Event,0.4,US and Britain launch air strikes against weapons sites in Iraq
+1998,1998-12-19,Event,0.4,House of Representatives votes to impeach President Clinton on charges of perjury and obstruction of justice
+1999,1999-02-12,Event,0.4,Senate acquits Clinton of impeachment charges
+1999,1999-03-24,Event,0.4,NATO wages air campaign against Yugoslavia over killing and deportation of ethnic Albanians in Kosovo
+1999,1999-12-09,Event,0.4,The Supreme Court of Hawaii in Baehr v Miike upholds the state's ban on same-sex marriage
+1999,1999-12-20,Event,0.4,The Vermont Supreme Court: Baker v Vermont excluding same-sex couples from marriage violates the Vermont Constitution 
+1999,1999-03-29,Event,0.4,"The Dow Jones Industrial Average closes above 10,000 for the first time"
+1999,1999-04-20,Event,0.4,"School shooting at Columbine High School in Littleton, Colorado"
+1999,1999-11-15,Event,0.4,US and China sign historic trade agreement
+2000,2000-04-01,Event,0.4,"According to the census, the nation's population numbers more than 280 million"
+2000,2000-03-07,Event,0.4,"California voters approve Proposition 22, against same-sex marriage"
+2000,2000-07-01,Event,0.4," Vermont institutes the first civil unions in the United States, in response to the decision in Baker v Vermont"
+2000,2000-11-07,Event,0.4,Close presidential election between Al Gore and George W Bush
+2000,2000-11-07,Event,0.4,Hillary Clinton wins a seat for the United States Senate from New York
+2000,2000-12-12,Event,0.4,US Supreme Court rules against a manual recount of ballots in certain Florida counties. The decision provokes enormous controversy
+2000,2000-12-13,Event,0.4,Bush formally accepts the presidency
+2001,2001-01-20,Event,0.4,George W Bush is inaugurated as the 43rd president
+2001,2001-09-11,Event,0.4,"September 11 attacks: four coordinated terrorist attacks on twin towers of World Trade Center, the Pentagon, and rural Pennsylvania."
+2001,2001-10-07,Event,0.4,US and Britain launch air attacks against targets in Afghanistan
+2001,2001-12-09,Event,0.4,Air campaign and ground assault by Afghani opposition troops topples the Taliban regime
+2002,2002-01-29,Event,0.4,President Bush declares war against states that develop weapons of mass destruction
+2002,2002-11-25,Event,0.4,President Bush signs legislation creating a new cabinet department of Homeland Security
+2003,2003-02-01,Event,0.4,Space shuttle Columbia explodes upon reentry into Earth's atmosphere
+2003,2003-03-19,Event,0.4,War waged by the US and Britain against Iraq begins
+2003,2003-11-18,Event,0.4,Massachusetts becomes first state to legalize same-sex marriage
+2003,2003-05-28,Event,0.4,President Bush signs $350 billion tax-cut bill
+2003,2003-12-13,Event,0.4," Saddam Hussein, former leader of Iraq, is captured"
+2004,2004-02-03,Event,0.4,CIA admits that there was no weapons of mass destruction before the 2003 Iraq war
+2004,2004-02-12,Event,0.4,San Francisco issues marriage licenses to same-sex couples
+2004,2004-02-25,Event,0.4,President George W Bush calls for a constitutional amendment against same-sex marriage
+2004,2004-02-27,Event,0.4,"Several same-sex couples are wed in New York, but later invalidated"
+2004,2004-05-17,Event,0.4,Same-sex marriage starts in Massachusetts
+2004,2004-08-12,Event,0.4,The California Supreme Court voids  same-sex marriages performed in San Francisco
+2004,2004-06-28,Event,0.4,The US returns sovereignty to an interim government in Iraq
+2004,2004-07-04,Event,0.4,The groundbreaking ceremony for the Freedom Tower at Ground Zero
+2004,NA,Event,0.4,Four hurricanes devastate Florida and other parts of the southern United States
+2004,2004-11-02,Event,0.4,President George W Bush wins reelection
+2005,2005-04-22,Event,0.4,The US engagement in Iraq continues
+2005,2005-06-17,Event,0.4,"American soldiers search for insurgents in Mosul, Iraq"
+2005,2005-08-29,Event,0.4,Hurricane Katrina wreaks catastrophic damage on Mississippi and Louisiana
+2005,2005-07-01,Event,0.4,Sandra Day O'Connor announces her retirement as a Supreme Court Justice
+2005,2005-09-03,Event,0.4,Chief Justice William H Rehnquist passes away after battling thyroid cancer
+2005,2005-09-29,Event,0.4,John G Roberts assumes the role of chief justice
+2006,2006-10-17,Event,0.4,Population of the US reaches 300 million stirring up debate on immigration policy
+2006,2006-11-07,Event,0.4,Both houses of Congress change back to Democratic hands for the first time since 1994
+2007,2007-01-04,Event,0.4,California Democrat Nancy Pelosi becomes the first woman Speaker of the House of Representatives
+2007,2007-01-10,Event,0.4,"President George W Bush announces a troop surge of 21,500 for the war in Iraq"
+2007,2007-04-16,Event,0.4,Virginia tech school shooting
+2007,2007-06-02,Event,0.4, A terror plot to blow up JFK International Airport is thwarted
+2007,2007-07-24,Event,0.4,"The minimum wage in the US increases to $5.85, and each year through 2009 to $7.25 an hour."
+2008,2008-06-03,Event,0.4,Barack Obama and John McCain are presidential nominees
+2008,2008-05-14,Event,0.4,New York Governor David Paterson orders state agencies to recognize same-sex marriages from other jurisdictions
+2008,2008-05-15,Event,0.4,The Supreme Court of California decides In re Marriage Cases and overturns the state's ban on same-sex marriage
+2008,2008-06-17,Event,0.4,"In California, county clerks begin issuing marriage licenses to same-sex couples"
+2008,2008-11-12,Event,0.4,Same-sex marriage starts in Connecticut
+2008,2008-08-29,Event,0.4,Sarah Palin's candicacy for Vice President announced
+2008,NA,Event,0.4,Economy comes crashing down with the Dow Jones Industrial Average tumbling 44% in one day
+2008,2008-10-03,Event,0.4,The United States Congress passes legislation for a $700 billion bailout
+2008,2008-11-04,Event,0.4,Barack Obama becomes  first African-American to be elected President
+2009,2009-01-20,Event,0.4,Barack Obama takes the oath of office for President of the United States
+2009,2009-04-15,Event,0.4,750 grass roots Tea Party protests spring up across the nation
+2009,2009-06-11,Event,0.4,"The H1N1 virus, named the Swine Flu, is deemed a global pandemic by the World Health Organization"
+2009,2009-10-31,Event,0.4,"The economic recession continues to deepen as jobless claims climb above 100%, reaching 102%"
+2009,2009-12-01,Event,0.4,"President Obama announces a surge of 30,000 additional troops to Afghanistan"
+2010,2010-01-19,Event,0.4,"Scott Brown, a Republican reformer from Massachusetts, wins special election Senate seat"
+2010,2010-03-25,Event,0.4,"The Health Care legislation, the Affordable Care Act is finalized"
+2010,2010-04-20,Event,0.4,A British Petroleum deep water oil rig explodes in the Gulf of Mexico
+2010,2010-11-02,Event,0.4,Republican candidates take control of the US House of Representatives
+2011,2011-04-14,Event,0.4,"Congress votes to pass the 2010-2011 budget, including $38 billion in fiscal year cuts"
+2011,2011-06-15,Event,0.4,Marriage Equality Act passed legalizing same-sex marriage in New York
+2011,2011-05-02,Event,0.4,"Osama Bin Laden, leader of the terrorist group, Al-Queda, is killed by US and coalition forces"
+2011,2011-07-21,Event,0.4,"The final shuttle flight lands at the Kennedy Space Center, end of the NASA shuttle space program"
+2011,2011-09-17,Event,0.4,First of many Occupy Wall Street protests begin in New York City
+2011,2011-12-15,Event,0.4,The war in Iraq is declared over when President Obama orders the last combat troops to leave the country
+2012,2012-09-11,Event,0.4,Terrorist attack on a consulate in the Libyan city of Benghazi kills four Americans
+2012,2012-10-29,Event,0.4,Hurricane Sand creates significant damage to coastal towns: estimated cost of $656 billion
+2012,2012-11-06,Event,0.4,President Barack Obama wins re-election
+2013,2013-01-20,Event,0.4,President Barack Obama takes oath of office
+2013,2013-04-15,Event,0.4,Two bombs explode at Boston Marathon in terrorism attack
+2013,2013-05-17,Event,0.4,Congressional hearings begin on the IRS scandal of group targeting that began two years prior
+2013,2013-08-28,Event,0.4,"50th anniversary commemoration ceremony of Martin Luther King's “I Have a Dream"" speech"
+2013,2013-10-01,Event,0.4," The Affordable Care Act, Obamacare, begins registering people"
+2014,2014-11-01,Event,0.4," Obamacare, the Affordable Care Act, goes into affect for millions of Americans"
+2014,2014-06-05,Event,0.4,Rise of ISIS in a large amount of territory in western Syria and northern Iraq
+2014,2014-09-30,Event,0.4,"First case of Ebola in the United States, by travel from the country of Liberia and West Africa"
+2014,2014-11-04,Event,0.4,Republican expansion to 247 seats in the House of Representatives and 54 seats in the Senate
+2015,2015-04-25,Event,0.4,"Riots begin in Baltimore after the death of Freddie Gray, a black man, in police custody"
+2015,2015-06-16,Event,0.4,Businessman Donald Trump joins a crowded field of Republican candidates
+2015,2015-06-26,Event,0.4,US Supreme Court struck legalizes same-sex marriage in all fifty states
+2015,2015-07-20,Event,0.4,Full diplomatic relations are reestablished between the United States and Cuba for the first time in fifty-four years
+2015,2015-09-22,Event,0.4,Pope Francis makes his first visit to the United States
+2015,2015-12-02,Event,0.4,"Islamic Terrorist inspired act in San Bernadino, California following Paris attacks in November."
+2016,2016-06-12,Event,0.4,"Terrorist attack in Orlando, Florida"
+2016,2016-11-28,Event,0.4,Donald Trump wins presidential election
+2016,2016-12-29,Event,0.4,Russia found to be behind a hacking scandal to influence the national presidential election
+2017,2017-01-20,Event,0.4,Donald Trump takes oath of office
+2017,2017-02-11,Event,0.4,North Korea fires ballistic missile over the Sea of Japan
+2017,2017-06-01,Event,0.4,United States withdraws from the Paris Climate Agreement
+2017,2017-08-25,Event,0.4,"Disastrous hurricane season in the Gulf of Mexico, Caribbean, and Atlantic"
+2017,2017-12-22,Event,0.4, President Trump signs the Tax Cuts and Jobs Act
+2018,2018-04-10,Event,0.4,Facebook founder Mark Zuckerberg responds to a Congressional inquiry
+2018,2018-06-11,Event,0.4,President Donald Trump meets with North Korean Leader Kim Jong-un
+2018,2018-07-06,Event,0.4, Tariffs against $34 billion of Chinese goods go into position
+2018,2018-11-06,Event,0.4,Democratic gains  forty seats in the House of Representative
+2018,2018-12-22,Event,0.4,Partial government shutdown after President Trump refuses to sign any spending package for Homeland Security that does not include funding for Mexico border barrier
+1991,1991-10-31,Holiday,0.4,Halloween
+1992,1992-10-31,Holiday,0.4,Halloween
+1993,1993-10-31,Holiday,0.4,Halloween
+1994,1994-10-31,Holiday,0.4,Halloween
+1995,1995-10-31,Holiday,0.4,Halloween
+1996,1996-10-31,Holiday,0.4,Halloween
+1997,1997-10-31,Holiday,0.4,Halloween
+1998,1998-10-31,Holiday,0.4,Halloween
+1999,1999-10-31,Holiday,0.4,Halloween
+2000,2000-10-31,Holiday,0.4,Halloween
+2001,2001-10-31,Holiday,0.4,Halloween
+2002,2002-10-31,Holiday,0.4,Halloween
+2003,2003-10-31,Holiday,0.4,Halloween
+2004,2004-10-31,Holiday,0.4,Halloween
+2005,2005-10-31,Holiday,0.4,Halloween
+2006,2006-10-31,Holiday,0.4,Halloween
+2007,2007-10-31,Holiday,0.4,Halloween
+2008,2008-10-31,Holiday,0.4,Halloween
+2009,2009-10-31,Holiday,0.4,Halloween
+2010,2010-10-31,Holiday,0.4,Halloween
+2011,2011-10-31,Holiday,0.4,Halloween
+2012,2012-10-31,Holiday,0.4,Halloween
+2013,2013-10-31,Holiday,0.4,Halloween
+2014,2014-10-31,Holiday,0.4,Halloween
+2015,2015-10-31,Holiday,0.4,Halloween
+2016,2016-10-31,Holiday,0.4,Halloween
+2017,2017-10-31,Holiday,0.4,Halloween
+2018,2018-10-31,Holiday,0.4,Halloween
+1991,1991-12-31,Holiday,0.4,Christmas
+1992,1992-12-31,Holiday,0.4,Christmas
+1993,1993-12-31,Holiday,0.4,Christmas
+1994,1994-12-31,Holiday,0.4,Christmas
+1995,1995-12-31,Holiday,0.4,Christmas
+1996,1996-12-31,Holiday,0.4,Christmas
+1997,1997-12-31,Holiday,0.4,Christmas
+1998,1998-12-31,Holiday,0.4,Christmas
+1999,1999-12-31,Holiday,0.4,Christmas
+2000,2000-12-31,Holiday,0.4,Christmas
+2001,2001-12-31,Holiday,0.4,Christmas
+2002,2002-12-31,Holiday,0.4,Christmas
+2003,2003-12-31,Holiday,0.4,Christmas
+2004,2004-12-31,Holiday,0.4,Christmas
+2005,2005-12-31,Holiday,0.4,Christmas
+2006,2006-12-31,Holiday,0.4,Christmas
+2007,2007-12-31,Holiday,0.4,Christmas
+2008,2008-12-31,Holiday,0.4,Christmas
+2009,2009-12-31,Holiday,0.4,Christmas
+2010,2010-12-31,Holiday,0.4,Christmas
+2011,2011-12-31,Holiday,0.4,Christmas
+2012,2012-12-31,Holiday,0.4,Christmas
+2013,2013-12-31,Holiday,0.4,Christmas
+2014,2014-12-31,Holiday,0.4,Christmas
+2015,2015-12-31,Holiday,0.4,Christmas
+2016,2016-12-31,Holiday,0.4,Christmas
+2017,2017-12-31,Holiday,0.4,Christmas
+2018,2018-12-31,Holiday,0.4,Christmas
+1991,1991-02-14,Holiday,0.4,Valentine's Day
+1992,1992-02-14,Holiday,0.4,Valentine's Day
+1993,1993-02-14,Holiday,0.4,Valentine's Day
+1994,1994-02-14,Holiday,0.4,Valentine's Day
+1995,1995-02-14,Holiday,0.4,Valentine's Day
+1996,1996-02-14,Holiday,0.4,Valentine's Day
+1997,1997-02-14,Holiday,0.4,Valentine's Day
+1998,1998-02-14,Holiday,0.4,Valentine's Day
+1999,1999-02-14,Holiday,0.4,Valentine's Day
+2000,2000-02-14,Holiday,0.4,Valentine's Day
+2001,2001-02-14,Holiday,0.4,Valentine's Day
+2002,2002-02-14,Holiday,0.4,Valentine's Day
+2003,2003-02-14,Holiday,0.4,Valentine's Day
+2004,2004-02-14,Holiday,0.4,Valentine's Day
+2005,2005-02-14,Holiday,0.4,Valentine's Day
+2006,2006-02-14,Holiday,0.4,Valentine's Day
+2007,2007-02-14,Holiday,0.4,Valentine's Day
+2008,2008-02-14,Holiday,0.4,Valentine's Day
+2009,2009-02-14,Holiday,0.4,Valentine's Day
+2010,2010-02-14,Holiday,0.4,Valentine's Day
+2011,2011-02-14,Holiday,0.4,Valentine's Day
+2012,2012-02-14,Holiday,0.4,Valentine's Day
+2013,2013-02-14,Holiday,0.4,Valentine's Day
+2014,2014-02-14,Holiday,0.4,Valentine's Day
+2015,2015-02-14,Holiday,0.4,Valentine's Day
+2016,2016-02-14,Holiday,0.4,Valentine's Day
+2017,2017-02-14,Holiday,0.4,Valentine's Day
+2018,2018-02-14,Holiday,0.4,Valentine's Day
+1991,1991-11-28,Holiday,0.4,Thanksgiving
+1992,1992-11-26,Holiday,0.4,Thanksgiving
+1993,1993-11-25,Holiday,0.4,Thanksgiving
+1994,1994-11-24,Holiday,0.4,Thanksgiving
+1995,1995-11-23,Holiday,0.4,Thanksgiving
+1996,1996-11-28,Holiday,0.4,Thanksgiving
+1997,1997-11-27,Holiday,0.4,Thanksgiving
+1998,1998-11-26,Holiday,0.4,Thanksgiving
+1999,1999-11-25,Holiday,0.4,Thanksgiving
+2000,2000-11-23,Holiday,0.4,Thanksgiving
+2001,2001-11-22,Holiday,0.4,Thanksgiving
+2002,2002-11-28,Holiday,0.4,Thanksgiving
+2003,2003-11-27,Holiday,0.4,Thanksgiving
+2004,2004-11-25,Holiday,0.4,Thanksgiving
+2005,2005-11-24,Holiday,0.4,Thanksgiving
+2006,2006-11-23,Holiday,0.4,Thanksgiving
+2007,2007-11-22,Holiday,0.4,Thanksgiving
+2008,2008-11-27,Holiday,0.4,Thanksgiving
+2009,2009-11-26,Holiday,0.4,Thanksgiving
+2010,2010-11-25,Holiday,0.4,Thanksgiving
+2011,2011-11-24,Holiday,0.4,Thanksgiving
+2012,2012-11-22,Holiday,0.4,Thanksgiving
+2013,2013-11-28,Holiday,0.4,Thanksgiving
+2014,2014-11-27,Holiday,0.4,Thanksgiving
+2015,2015-11-26,Holiday,0.4,Thanksgiving
+2016,2016-11-24,Holiday,0.4,Thanksgiving
+2017,2017-11-23,Holiday,0.4,Thanksgiving
+2018,2018-11-22,Holiday,0.4,Thanksgiving
