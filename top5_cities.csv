@@ -1,0 +1,523 @@
+year,city,region,n,pop
+1991,Boston,Northeast,139,575767
+1991,Chicago,Midwest,145,2794955
+1991,Las Vegas Metropolitan Police Department,West,16,280308
+1991,New York,Northeast,482,7391139
+1991,Philadelphia,Northeast,123,1578777
+1991,Phoenix,West,48,1017169
+1991,Portland,West,195,446501
+1991,Seattle,West,74,520966
+1991,Tulsa,South,91,369874
+1991,Washington,South,6,603415
+1992,Boston,Northeast,228,577253
+1992,Chicago,Midwest,202,2806184
+1992,Las Vegas Metropolitan Police Department,West,21,302322
+1992,Lincoln,Northeast,1,198693
+1992,New York,Northeast,583,7459710
+1992,Phoenix,West,115,1050933
+1992,Portland,Northeast,10,455681
+1992,Portland,West,233,455681
+1992,San Francisco,West,65,734517
+1992,Seattle,West,106,525678
+1992,Tulsa,South,126,372449
+1992,Washington,South,14,599931
+1993,Boston,Northeast,230,578739
+1993,Chicago,Midwest,217,2817413
+1993,Columbus,Midwest,142,656478
+1993,Kansas City,Midwest,1,437065
+1993,Las Vegas Metropolitan Police Department,West,12,324336
+1993,Lincoln,Northeast,4,202054
+1993,New York,Northeast,470,7528281
+1993,Philadelphia,Northeast,202,1565171
+1993,Phoenix,West,125,1084697
+1993,Portland,Northeast,24,464861
+1993,Portland,West,140,464861
+1993,San Francisco,West,289,739794
+1993,Seattle,West,125,530390
+1993,Tulsa,South,32,375024
+1993,Washington,Northeast,1,596447
+1993,Washington,South,10,596447
+1994,Chicago,Midwest,216,2828642
+1994,Columbus,Midwest,159,664334
+1994,Columbus,South,1,664334
+1994,Kansas City,Midwest,29,437705
+1994,Las Vegas Metropolitan Police Department,West,1,346350
+1994,New York,Northeast,506,7596852
+1994,Philadelphia,Northeast,120,1558368
+1994,Phoenix,West,135,1118461
+1994,Portland,Northeast,3,474041
+1994,Portland,West,101,474041
+1994,San Francisco,West,270,745071
+1994,Seattle,West,43,535102
+1994,Tulsa,South,16,377599
+1994,Washington,Northeast,1,592963
+1994,Washington,South,2,592963
+1995,Boston,Northeast,164,581711
+1995,Chicago,Midwest,146,2839871
+1995,Columbus,Midwest,112,672190
+1995,Kansas City,Midwest,30,438345
+1995,Las Vegas Metropolitan Police Department,West,56,368364
+1995,Los Angeles,West,437,3590110
+1995,New York,Northeast,416,7665423
+1995,Philadelphia,Northeast,147,1551565
+1995,Phoenix,West,125,1152225
+1995,Portland,Northeast,30,483221
+1995,Portland,West,90,483221
+1995,San Diego,West,119,1166975
+1995,San Francisco,West,280,750348
+1995,Seattle,West,40,539814
+1995,Tulsa,South,19,380174
+1995,Washington,Northeast,3,589479
+1995,Washington,South,5,589479
+1996,Boston,Northeast,199,583197
+1996,Chicago,Midwest,82,2851100
+1996,Columbus,Midwest,57,680046
+1996,Kansas City,Midwest,39,438985
+1996,Las Vegas Metropolitan Police Department,West,36,390378
+1996,Lincoln,Midwest,1,212137
+1996,Lincoln,Northeast,4,212137
+1996,Los Angeles,West,481,3611052
+1996,Memphis,Midwest,1,634196
+1996,New York,Northeast,535,7733994
+1996,Philadelphia,Northeast,97,1544762
+1996,Phoenix,West,135,1185989
+1996,Portland,Northeast,31,492401
+1996,Portland,West,81,492401
+1996,San Diego,West,98,1178260
+1996,San Francisco,West,260,755625
+1996,Seattle,West,27,544526
+1996,Tulsa,South,12,382749
+1996,Washington,South,16,585995
+1997,Boston,Northeast,155,584683
+1997,Chicago,Midwest,126,2862329
+1997,Columbus,Midwest,89,687902
+1997,Kansas City,Midwest,16,439625
+1997,Las Vegas Metropolitan Police Department,West,27,412392
+1997,Lincoln,Northeast,1,215498
+1997,Lincoln,West,1,215498
+1997,Los Angeles,West,403,3631994
+1997,New York,Northeast,512,7802565
+1997,Philadelphia,Northeast,77,1537959
+1997,Phoenix,West,217,1219753
+1997,Portland,Northeast,20,501581
+1997,Portland,South,1,501581
+1997,Portland,West,67,501581
+1997,San Diego,West,84,1189545
+1997,San Francisco,West,256,760902
+1997,Seattle,West,36,549238
+1997,Tulsa,South,1,385324
+1997,Washington,Northeast,1,582511
+1997,Washington,South,6,582511
+1998,Boston,Northeast,195,586169
+1998,Chicago,Midwest,80,2873558
+1998,Columbus,Midwest,74,695758
+1998,Kansas City,Midwest,15,440265
+1998,Las Vegas Metropolitan Police Department,West,34,434406
+1998,Lincoln,Midwest,28,218859
+1998,Los Angeles,West,404,3652936
+1998,Memphis,Midwest,1,642148
+1998,New York,Northeast,475,7871136
+1998,Philadelphia,Northeast,74,1531156
+1998,Phoenix,West,170,1253517
+1998,Portland,Midwest,1,510761
+1998,Portland,Northeast,27,510761
+1998,Portland,South,1,510761
+1998,Portland,West,23,510761
+1998,San Diego,West,106,1200830
+1998,San Francisco,West,218,766179
+1998,Seattle,West,28,553950
+1998,Tulsa,South,8,387899
+1998,Washington,South,4,579027
+1999,Boston,Northeast,152,587655
+1999,Chicago,Midwest,78,2884787
+1999,Columbus,Midwest,73,703614
+1999,Kansas City,Midwest,9,440905
+1999,Las Vegas Metropolitan Police Department,West,46,456420
+1999,Lincoln,Midwest,20,222220
+1999,Los Angeles,West,541,3673878
+1999,Memphis,Midwest,1,646124
+1999,New York,Northeast,373,7939707
+1999,Philadelphia,Northeast,70,1524353
+1999,Phoenix,West,139,1287281
+1999,Portland,Northeast,13,519941
+1999,Portland,West,56,519941
+1999,San Diego,West,141,1212115
+1999,San Francisco,West,184,771456
+1999,Seattle,West,31,558662
+1999,Tulsa,South,8,390474
+1999,Washington,South,11,575543
+2000,Boston,Northeast,177,589141
+2000,Chicago,Midwest,87,2896016
+2000,Columbus,Midwest,70,711470
+2000,Kansas City,Midwest,16,441545
+2000,Las Vegas Metropolitan Police Department,West,55,478434
+2000,Lincoln,Midwest,6,225581
+2000,Los Angeles,West,555,3694820
+2000,Memphis,South,19,650100
+2000,New York,Northeast,400,8008278
+2000,Philadelphia,Northeast,53,1517550
+2000,Phoenix,West,148,1321045
+2000,Portland,Midwest,1,529121
+2000,Portland,Northeast,8,529121
+2000,Portland,West,32,529121
+2000,San Diego,West,139,1223400
+2000,San Francisco,West,141,776733
+2000,Seattle,West,21,563374
+2000,Tulsa,South,10,393049
+2000,Washington,Midwest,1,572059
+2000,Washington,Northeast,4,572059
+2000,Washington,South,5,572059
+2001,Boston,Northeast,212,592334.3
+2001,Chicago,Midwest,103,2876167.3000000017
+2001,Columbus,Midwest,78,719412
+2001,Kansas City,Midwest,7,443466
+2001,Las Vegas Metropolitan Police Department,West,68,489053
+2001,Lincoln,Midwest,18,228949
+2001,Lincoln,Northeast,2,228949
+2001,Lincoln,West,1,228949
+2001,Los Angeles,West,559,3704875
+2001,Memphis,South,29,650320
+2001,New York,Northeast,321,8026483
+2001,Philadelphia,Northeast,48,1518627
+2001,Phoenix,West,154,1333870
+2001,Portland,Northeast,10,534748
+2001,Portland,West,104,534748
+2001,San Diego,West,154,1231657
+2001,San Francisco,West,164,779612
+2001,Seattle,West,27,568096
+2001,Tulsa,South,9,392988
+2001,Washington,Northeast,1,575358
+2001,Washington,South,11,575358
+2002,Boston,Northeast,133,595527.6
+2002,Chicago,Midwest,52,2856318.6000000015
+2002,Columbus,Midwest,72,727359
+2002,Kansas City,Midwest,5,445385
+2002,Las Vegas Metropolitan Police Department,West,45,499670
+2002,Lincoln,Midwest,23,232317
+2002,Lincoln,Northeast,1,232317
+2002,Los Angeles,West,354,3714930
+2002,Memphis,South,19,650541
+2002,New York,Northeast,291,8044691
+2002,Philadelphia,Northeast,45,1519701
+2002,Phoenix,West,107,1346695
+2002,Portland,Midwest,1,540380
+2002,Portland,Northeast,16,540380
+2002,Portland,West,10,540380
+2002,San Diego,West,85,1239914
+2002,San Francisco,West,180,782494
+2002,Seattle,West,17,572823
+2002,Tulsa,South,18,392925
+2002,Washington,Midwest,1,578661
+2002,Washington,South,11,578661
+2003,Boston,Northeast,114,598720.9
+2003,Chicago,Midwest,58,2836469.9000000013
+2003,Columbus,Midwest,50,735306
+2003,Kansas City,Midwest,10,447304
+2003,Las Vegas Metropolitan Police Department,West,84,510287
+2003,Lincoln,Midwest,15,235685
+2003,Los Angeles,West,276,3724985
+2003,Memphis,South,8,650762
+2003,New York,Northeast,291,8062899
+2003,Philadelphia,Northeast,44,1520775
+2003,Phoenix,West,100,1359520
+2003,Portland,Northeast,15,546012
+2003,Portland,West,95,546012
+2003,San Diego,West,84,1248171
+2003,San Francisco,West,117,785376
+2003,Seattle,West,25,577550
+2003,Tulsa,South,4,392862
+2003,Washington,Northeast,3,581964
+2003,Washington,South,30,581964
+2004,Boston,Northeast,101,601914.2
+2004,Chicago,Midwest,54,2816621.200000001
+2004,Columbus,Midwest,127,743253
+2004,Kansas City,Midwest,2,449223
+2004,Las Vegas Metropolitan Police Department,West,71,520904
+2004,Lincoln,Midwest,20,239053
+2004,Los Angeles,West,244,3735040
+2004,Memphis,South,1,650983
+2004,New York,Northeast,97,8081107
+2004,Philadelphia,Northeast,14,1521849
+2004,Phoenix,West,100,1372345
+2004,Portland,Midwest,1,551644
+2004,Portland,Northeast,14,551644
+2004,Portland,South,1,551644
+2004,Portland,West,79,551644
+2004,San Diego,West,50,1256428
+2004,San Francisco,West,138,788258
+2004,Seattle,West,25,582277
+2004,Tulsa,South,11,392799
+2004,Washington,South,44,585267
+2005,Boston,Northeast,143,605107.5
+2005,Chicago,Midwest,38,2796772.500000001
+2005,Columbus,Midwest,61,751200
+2005,Kansas City,Midwest,3,451142
+2005,Las Vegas Metropolitan Police Department,West,65,531521
+2005,Lincoln,Midwest,20,242421
+2005,Los Angeles,West,219,3745095
+2005,Memphis,South,6,651204
+2005,New York,Northeast,249,8099315
+2005,Philadelphia,Northeast,26,1522923
+2005,Phoenix,West,34,1385170
+2005,Portland,Northeast,2,557276
+2005,Portland,West,72,557276
+2005,San Diego,West,41,1264685
+2005,San Francisco,West,104,791140
+2005,Seattle,West,18,587004
+2005,Tulsa,South,2,392736
+2005,Washington,Northeast,9,588570
+2005,Washington,South,44,588570
+2006,Boston,Northeast,146,608300.8
+2006,Chicago,Midwest,33,2776923.8000000007
+2006,Columbus,Midwest,82,759147
+2006,Kansas City,Midwest,5,453061
+2006,Las Vegas Metropolitan Police Department,West,105,542138
+2006,Lincoln,Midwest,36,245789
+2006,Los Angeles,West,211,3755150
+2006,Memphis,South,36,651425
+2006,New York,Northeast,273,8117523
+2006,Philadelphia,Northeast,33,1523997
+2006,Phoenix,West,60,1397995
+2006,Portland,Northeast,1,562908
+2006,Portland,South,1,562908
+2006,Portland,West,40,562908
+2006,San Diego,West,55,1272942
+2006,San Francisco,West,94,794022
+2006,Seattle,West,11,591731
+2006,Tulsa,South,5,392673
+2006,Washington,Northeast,3,591873
+2006,Washington,South,53,591873
+2006,Washington,West,1,591873
+2007,Boston,Northeast,164,611494.1
+2007,Chicago,Midwest,37,2757075.1000000006
+2007,Columbus,Midwest,100,767094
+2007,Kansas City,Midwest,4,454980
+2007,Las Vegas Metropolitan Police Department,West,52,552755
+2007,Lincoln,Midwest,22,249157
+2007,Los Angeles,West,279,3765205
+2007,Memphis,South,86,651646
+2007,New York,Northeast,295,8135731
+2007,Philadelphia,Northeast,28,1525071
+2007,Phoenix,West,80,1410820
+2007,Portland,Northeast,8,568540
+2007,Portland,South,1,568540
+2007,Portland,West,63,568540
+2007,San Diego,West,52,1281199
+2007,San Francisco,West,66,796904
+2007,Seattle,West,28,596458
+2007,Washington,Northeast,3,595176
+2007,Washington,South,38,595176
+2007,Washington,West,3,595176
+2008,Boston,Northeast,161,614687.4
+2008,Chicago,Midwest,31,2737226.4000000004
+2008,Columbus,Midwest,49,775041
+2008,Kansas City,Midwest,12,456899
+2008,Las Vegas Metropolitan Police Department,West,84,563372
+2008,Lincoln,Midwest,67,252525
+2008,Lincoln,Northeast,1,252525
+2008,Los Angeles,West,280,3775260
+2008,Memphis,Midwest,1,651867
+2008,Memphis,South,52,651867
+2008,New York,Northeast,263,8153939
+2008,Philadelphia,Northeast,21,1526145
+2008,Phoenix,West,89,1423645
+2008,Portland,Northeast,5,574172
+2008,Portland,West,58,574172
+2008,San Diego,West,58,1289456
+2008,San Francisco,West,68,799786
+2008,Seattle,West,21,601185
+2008,Tulsa,South,1,392547
+2008,Washington,Northeast,2,598479
+2008,Washington,South,36,598479
+2009,Boston,Northeast,134,617880.7
+2009,Chicago,Midwest,27,2717377.7
+2009,Columbus,Midwest,39,782988
+2009,Kansas City,Midwest,44,458818
+2009,Las Vegas Metropolitan Police Department,West,35,573989
+2009,Lincoln,Midwest,67,255893
+2009,Los Angeles,West,190,3785315
+2009,Memphis,South,35,652088
+2009,New York,Northeast,272,8172147
+2009,Philadelphia,Northeast,6,1527219
+2009,Phoenix,West,115,1436470
+2009,Portland,Northeast,8,579804
+2009,Portland,West,35,579804
+2009,San Diego,West,43,1297713
+2009,San Francisco,West,23,802668
+2009,Seattle,West,14,605912
+2009,Tulsa,South,1,392484
+2009,Washington,South,35,601782
+2010,Boston,Northeast,148,621074
+2010,Chicago,Midwest,17,2697529
+2010,Columbus,Midwest,46,790935
+2010,Kansas City,Midwest,76,460737
+2010,Las Vegas Metropolitan Police Department,West,52,584606
+2010,Lincoln,Midwest,40,259261
+2010,Lincoln,Northeast,2,259261
+2010,Los Angeles,West,138,3795370
+2010,Memphis,South,15,652309
+2010,New York,Northeast,348,8190355
+2010,Philadelphia,Northeast,8,1528293
+2010,Phoenix,West,135,1449295
+2010,Portland,Northeast,7,585436
+2010,Portland,West,29,585436
+2010,San Diego,West,49,1305970
+2010,San Francisco,West,63,805550
+2010,Seattle,West,15,610639
+2010,Tulsa,South,3,392421
+2010,Washington,South,57,605085
+2011,Boston,Northeast,206,630480
+2011,Chicago,Midwest,10,2708209
+2011,Columbus,Midwest,40,800522
+2011,Columbus,South,4,800522
+2011,Kansas City,Midwest,50,462356
+2011,Las Vegas Metropolitan Police Department,West,52,586635
+2011,Lincoln,Midwest,23,262466
+2011,Lincoln,Northeast,2,262466
+2011,Lincoln,South,2,262466
+2011,Los Angeles,West,170,3821136
+2011,Memphis,South,22,655590
+2011,New York,Northeast,240,8272963
+2011,Phoenix,West,123,1470052
+2011,Portland,Northeast,16,595410
+2011,Portland,South,1,595410
+2011,Portland,West,27,595410
+2011,San Diego,West,42,1319697
+2011,San Francisco,West,46,815677
+2011,Seattle,West,12,623050
+2011,Washington,Northeast,1,619602
+2011,Washington,South,79,619602
+2012,Boston,Northeast,123,643003
+2012,Chicago,Midwest,14,2719735
+2012,Columbus,Midwest,45,812711
+2012,Columbus,South,2,812711
+2012,Kansas City,Midwest,49,464607
+2012,Las Vegas Metropolitan Police Department,West,73,593411
+2012,Lincoln,Northeast,1,265663
+2012,Los Angeles,West,124,3852532
+2012,Memphis,South,61,659089
+2012,New York,Northeast,374,8348032
+2012,Philadelphia,Northeast,11,1551797
+2012,Phoenix,West,121,1499839
+2012,Portland,Northeast,7,604285
+2012,Portland,West,7,604285
+2012,San Diego,West,34,1337149
+2012,San Francisco,West,35,829027
+2012,Seattle,West,86,636495
+2012,Washington,Northeast,1,634725
+2012,Washington,South,71,634725
+2013,Boston,Northeast,165,653103
+2013,Chicago,Midwest,45,2726772
+2013,Columbus,Midwest,99,827824
+2013,Kansas City,Midwest,64,467243
+2013,Las Vegas Metropolitan Police Department,West,65,599777
+2013,Lincoln,Midwest,15,268937
+2013,Lincoln,Northeast,1,268937
+2013,Los Angeles,West,113,3883916
+2013,Memphis,South,26,657877
+2013,New York,Northeast,314,8398739
+2013,Philadelphia,Northeast,8,1558371
+2013,Phoenix,West,123,1527336
+2013,Portland,Northeast,2,609970
+2013,Portland,West,6,609970
+2013,San Diego,West,43,1355951
+2013,San Francisco,West,24,839841
+2013,Seattle,West,90,654224
+2013,Washington,Northeast,4,650431
+2013,Washington,South,70,650431
+2014,Boston,Northeast,95,663017
+2014,Chicago,Midwest,50,2728524
+2014,Columbus,Midwest,154,841740
+2014,Kansas City,Midwest,32,470678
+2014,Las Vegas Metropolitan Police Department,West,17,608275
+2014,Lincoln,Midwest,28,273945
+2014,Los Angeles,West,152,3913260
+2014,Memphis,South,13,655936
+2014,New York,Northeast,307,8437387
+2014,Philadelphia,Northeast,11,1565604
+2014,Phoenix,West,183,1556552
+2014,Portland,Northeast,4,620647
+2014,San Diego,West,37,1376725
+2014,San Francisco,West,22,851116
+2014,Seattle,West,108,670925
+2014,Washington,South,68,662513
+2015,Boston,Northeast,139,670791
+2015,Chicago,Midwest,38,2726215
+2015,Columbus,Midwest,137,855012
+2015,Kansas City,Midwest,42,475069
+2015,Las Vegas Metropolitan Police Department,West,41,617840
+2015,Lincoln,Midwest,16,277178
+2015,Los Angeles,West,192,3943215
+2015,Memphis,South,17,654876
+2015,New York,Northeast,307,8468181
+2015,Philadelphia,Northeast,14,1571258
+2015,Phoenix,West,231,1584927
+2015,Portland,Northeast,7,631539
+2015,Portland,South,1,631539
+2015,Portland,West,17,631539
+2015,San Diego,West,36,1388674
+2015,San Francisco,West,28,863836
+2015,Seattle,West,83,688156
+2015,Washington,South,64,675254
+2016,Boston,Northeast,120,680470
+2016,Chicago,Midwest,51,2718946
+2016,Columbus,Midwest,170,866918
+2016,Kansas City,Midwest,44,481626
+2016,Las Vegas Metropolitan Police Department,West,25,626950
+2016,Lincoln,Midwest,19,281254
+2016,Lincoln,Northeast,1,281254
+2016,Los Angeles,West,227,3969262
+2016,Memphis,South,9,653184
+2016,New York,Northeast,361,8475976
+2016,Philadelphia,Northeast,35,1576390
+2016,Phoenix,West,174,1613581
+2016,Portland,Northeast,11,643136
+2016,Portland,South,1,643136
+2016,Portland,West,10,643136
+2016,San Diego,West,35,1403865
+2016,San Francisco,West,36,872795
+2016,Seattle,West,126,710510
+2016,Tulsa,South,1,404182
+2016,Washington,Northeast,1,686575
+2016,Washington,South,104,686575
+2017,Boston,Northeast,141,688276
+2017,Chicago,Midwest,41,2713067
+2017,Columbus,Midwest,77,881763
+2017,Columbus,South,4,881763
+2017,Kansas City,Midwest,47,488266
+2017,Lincoln,Midwest,29,284506
+2017,Lincoln,Northeast,2,284506
+2017,Los Angeles,West,263,3982002
+2017,Memphis,South,7,651562
+2017,New York,Northeast,318,8438271
+2017,Philadelphia,Northeast,38,1580221
+2017,Phoenix,West,219,1634984
+2017,Portland,Midwest,1,648630
+2017,Portland,Northeast,10,648630
+2017,Portland,West,19,648630
+2017,San Diego,West,41,1414427
+2017,San Francisco,West,43,879166
+2017,Seattle,West,232,729601
+2017,Washington,South,169,695691
+2017,Washington,West,2,695691
+2018,Boston,Northeast,145,694583
+2018,Chicago,Midwest,62,2705994
+2018,Columbus,Midwest,73,892533
+2018,Columbus,South,6,892533
+2018,Kansas City,Midwest,33,491918
+2018,Las Vegas Metropolitan Police Department,West,16,644644
+2018,Lincoln,Midwest,12,287401
+2018,Lincoln,Northeast,1,287401
+2018,Los Angeles,West,282,3990456
+2018,Memphis,South,5,650618
+2018,New York,Northeast,351,8398748
+2018,Philadelphia,Northeast,42,1584138
+2018,Phoenix,West,107,1660272
+2018,Portland,Northeast,12,653115
+2018,Portland,West,26,653115
+2018,San Diego,West,40,1425976
+2018,San Francisco,West,68,883305
+2018,Seattle,West,291,744955
+2018,Tulsa,South,1,400669
+2018,Washington,South,194,702455
+2018,Washington,West,1,702455
